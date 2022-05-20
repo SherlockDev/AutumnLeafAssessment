@@ -8,5 +8,5 @@ Q3:     I declared the os and requests libraries which allowed for me to make us
 
 Q4:     I installed and made use of Visual Studio COde as i could not get Docker to run on Ubuntu correctly. I have not been able to successfuly get docker to run on windows or my ubuntu VM and have run out of time to get it right. I modified the "Dockerfile" included to have the same declared environmental variables as the ones used in my question3.py script. But was unable to run this and test it.  
 
-Q5:     Logged in to github and created a new repository name it, making it private so that only those with the link can see it, included the README file
+Q5:     Logged in to github and created a the new repository plus the README.md file
 
